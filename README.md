@@ -10,7 +10,7 @@ As a two-day client project, my team and I built a crowd sourced restaurant web 
 
 ----
 ## Technologies
-* [React JS]()
+* [React JS](https://github.com/rdrammeh/Madame-Rouge-React)
 * [Rails API](https://github.com/rdrammeh/Madame-Rouge-API)
 
 ----
